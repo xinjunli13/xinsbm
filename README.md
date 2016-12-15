@@ -20,3 +20,6 @@ Process finished with exit code 0
     </dependency>
     
  将<scope>provided</scope>注释掉，重新运行项目便可启动嵌入的tomcat服务器：Tomcat started on port(s): 8080 (http)
+
+
+
